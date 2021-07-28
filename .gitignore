@@ -1,0 +1,8 @@
+test.py
+test
+__pycache__
+webcam.py.egg-info
+webcam_py.egg-info
+dist
+.pypirc
+build
