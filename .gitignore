@@ -6,3 +6,5 @@ webcam_py.egg-info
 dist
 .pypirc
 build
+*.spec
+.DS_Store
