@@ -32,18 +32,22 @@ python3 setup.py install
 
 or with PIP
 ```
-pip install .
+pip install opencv-python
 ```
 
 ### 2. Run project
 
-Run the script
+Import the module in your python file, and run it
+```python
+import webcam-py
+```
+
+Run the script if you have downloaded the source code
 ```
 py ./src
 ```
 
-Linux user with `python3` command
-
+Linux user run the command in your terminal with `python3` and `pip3`
 
 ### Love this repo? Give us a star ⭐
 

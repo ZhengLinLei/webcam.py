@@ -31,6 +31,7 @@ while playCamera:
             break
     else:
         print('Cannot get information about your webcam device')
+        playCamera = False
 
 
 
