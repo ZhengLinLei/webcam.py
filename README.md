@@ -12,7 +12,7 @@ pip install webcam-py
 ```
 
 Follow the steps in [Pypi](https://pypi.org) to run the project like a python module
-Pypi [https://pypi.org/project/tkinterAsync/](https://pypi.org/project/tkinterAsync/)
+Pypi [https://pypi.org/project/webcam-py/](https://pypi.org/project/webcam-py/)
 
 
 
